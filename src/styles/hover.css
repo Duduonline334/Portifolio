@@ -1,0 +1,22 @@
+
+
+
+.hover{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    background-color: #080414;
+    color: #ffffff;
+    width: 100vw;
+    height: 10vh;
+    top: 0; 
+    box-shadow: #4C02A6 0px 2px;
+    z-index: 10;
+}
+
+.textHover{
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: lighter;
+}

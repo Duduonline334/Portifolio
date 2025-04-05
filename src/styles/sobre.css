@@ -1,0 +1,39 @@
+.sobre{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 95vh;
+}
+
+.textSobre{
+    font-size: 2vw;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.textSobre h3{
+    margin-bottom: 5vh;
+    font-size: 3vw;
+    color: #8A2BE2;
+}
+
+.textSobre h4{
+    font-weight: lighter;
+}
+
+.conhecimentos{
+    font-size: 2vw;
+    text-align: center;
+    color: #7300FF;
+    margin-top: 5vh;
+}
+
+.conhecimentos h3{
+    margin-bottom: 5vh;
+}
+
+.conhecimentosBolotas{
+    display: flex;
+    list-style: none;
+    margin-bottom: 5vh;
+}

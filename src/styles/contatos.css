@@ -1,0 +1,16 @@
+.contatos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 70vh;
+    font-size: 1.7vw;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+.contatosBolotas{
+    display: flex;
+    margin-top: 5vh;
+    list-style: none;
+}
