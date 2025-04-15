@@ -14,3 +14,10 @@
     margin-top: 5vh;
     list-style: none;
 }
+
+@media (max-width: 750px) {
+    
+    .contatos{
+        font-size: 2.7vw;
+    }
+}

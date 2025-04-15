@@ -20,11 +20,11 @@ function Sobre(){
             <div className='conhecimentos'>
                 <h3>Conhecimentos</h3>
                 <div className='conhecimentosBolotas'>
-                    <div><Bolota src={htmlIcon} texto="Html5" tamanho="85%"/></div>
-                    <div><Bolota src={cssIcon} texto="CSS" tamanho="85%"/></div>
-                    <div><Bolota src={javaIcon} texto="Java" tamanho="85%"/></div>
-                    <div><Bolota src={pythonIcon} texto="Python" tamanho="85%"/></div>
-                    <div><Bolota src={postgreeIcon} texto="Postgresql" tamanho="85%"/></div>
+                    <div className='html'><Bolota src={htmlIcon} texto="Html5" tamanho="85%"/></div>
+                    <div className='css'><Bolota src={cssIcon} texto="CSS" tamanho="85%"/></div>
+                    <div className='java'><Bolota src={javaIcon} texto="Java" tamanho="85%"/></div>
+                    <div className='python'><Bolota src={pythonIcon} texto="Python" tamanho="85%"/></div>
+                    <div className='postgre'><Bolota src={postgreeIcon} texto="Postgresql" tamanho="85%"/></div>
                 </div>
                 
             </div>

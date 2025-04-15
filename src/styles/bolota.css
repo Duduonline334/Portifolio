@@ -22,3 +22,11 @@
     font-weight: lighter;
 }
 
+@media (max-width: 750px) {
+    
+    .bolota{
+        height: 80px;
+        width: 80px;
+    }
+
+}
